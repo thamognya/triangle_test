@@ -1,6 +1,6 @@
 # general info
 
-These are several codes that print out the pattern listed in [output.md](./information/output.md).
+These are several codes that print out the pattern listed in [output](./information/output).
 
 Todo: [TODO.md](./information/TODO.md)
 
