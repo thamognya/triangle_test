@@ -1,3 +1,3 @@
-These are several codes that print out the pattern listed in [output.md](./output.md).
+These are several codes that print out the pattern listed in [output.md](./information/output.md).
 
-Todo: [TODO.md](./TODO.md)
+Todo: [TODO.md](./information/TODO.md)
