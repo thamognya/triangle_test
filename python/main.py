@@ -1,3 +1,6 @@
+if __name__=="__main__":
+    main()
+
 def main():
     #    n = input("N: ")
     n = 20
@@ -23,5 +26,3 @@ def tree(n):
 
         print("")
 
-if __name__=="__main__":
-    main()
